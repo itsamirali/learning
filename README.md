@@ -1,2 +1,3 @@
 # learning
-all projects during learning new technology
+All projects during learning new technology
+
